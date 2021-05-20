@@ -4,7 +4,8 @@ Created by Optimal Workshop and World IA Day, the State of Information Architect
 
 > We're working on the 2021 State of IA survey. 
 
-The latest State of IA report can be found in (/2020). 
+The latest State of IA report can be found in (/2020).
+https://github.com/worldiaday/StateofIAReport/blob/main/2020/2020_WIAD_Conference%20Survey%20Analysis_1.1_GL.pdf
 
 ### How can I contribute? 
 We're looking for researchers, editors, proofreaders, translators. Check out Projects > 2021 and assign something to yourself!
