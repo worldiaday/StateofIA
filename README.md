@@ -15,8 +15,9 @@ The purpose of this research study is to look deeply at who is practicing inform
 We hope that this report will share this understanding that while the title of “information architect” wanes throughout the times, our work and study-whether in design, research, industry-have some association with the principles of information architecture. 
 
 ### 2021 Survey
-The 2021 survey is now available from 10 June through 30 September 2021. 
-https://worldiaday.optimalworkshop.com/questions/2021-en
+The 2021 survey is now available from 10 June through 31 December 2021. 
+English: https://worldiaday.optimalworkshop.com/questions/2021-en
+Español: https://worldiaday.optimalworkshop.com/questions/2021-es
 
 ### 2020 Report
 The latest State of IA report can be found in [/2020](https://github.com/worldiaday/StateofIAReport/blob/main/2020/2020_WIAD_Conference%20Survey%20Analysis_1.1_GL.pdf)
