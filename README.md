@@ -9,18 +9,18 @@ In 1998, the book Information Architecture for the World Wide Web was published.
 
 How relevant is information architecture? Is IA dead? Even more than before, information architecture is necessary and essential for helping the world’s people make sense of the connected world around them. 
 
-#### Our vision and purpose
+### Our vision and purpose
 The purpose of this research study is to look deeply at who is practicing information architecture today, what kind of work are they doing and how they’re doing it. We’ll look at how people understand information architecture, what they anticipate for the future of this work. At the same time, this research will document the state of the practice and field of information architecture in 2021 and set a baseline for future research, development, and understanding of information architecture.
 
 We hope that this report will share this understanding that while the title of “information architect” wanes throughout the times, our work and study-whether in design, research, industry-have some association with the principles of information architecture. 
 
 # The Latest survey & most recent report
-## 2021 Survey
+### 2021 Survey
 The 2021 survey is now available from 10 June through 31 December 2021. 
 - English: https://worldiaday.optimalworkshop.com/questions/2021-en
 - Español: https://worldiaday.optimalworkshop.com/questions/2021-es
 
-## 2020 Report
+### 2020 Report
 The latest State of IA report can be found in [/2020](https://github.com/worldiaday/StateofIAReport/blob/main/2020/2020_WIAD_Conference%20Survey%20Analysis_1.1_GL.pdf)
 
 # Questions
