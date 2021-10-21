@@ -14,36 +14,30 @@ The purpose of this research study is to look deeply at who is practicing inform
 
 We hope that this report will share this understanding that while the title of “information architect” wanes throughout the times, our work and study-whether in design, research, industry-have some association with the principles of information architecture. 
 
-### 2021 Survey
+# The Latest survey & most recent report
+## 2021 Survey
 The 2021 survey is now available from 10 June through 31 December 2021. 
 - English: https://worldiaday.optimalworkshop.com/questions/2021-en
 - Español: https://worldiaday.optimalworkshop.com/questions/2021-es
 
-### 2020 Report
+## 2020 Report
 The latest State of IA report can be found in [/2020](https://github.com/worldiaday/StateofIAReport/blob/main/2020/2020_WIAD_Conference%20Survey%20Analysis_1.1_GL.pdf)
 
-### How can I contribute? 
+# Questions
+
+## How can I contribute? 
 We're looking for researchers, editors, proofreaders, translators! Let us know that you want to help out by [creating a new issue](https://github.com/worldiaday/StateofIAReport/issues)
 > Title: Requst to join the project <br>
 > Message: How you want to help
 
-### What will you do with the results?
+## What will you do with the results?
 All the information we collect will be anonymized and made publicly available. We encourage everyone to explore the data, react to it, and help improve the research over time. We'll produce and share an official report once the data has been gathered and analyze.
 
-### How do I report a bug? 
+## How do I report a bug or send feedback? 
 [Create an issue](https://github.com/worldiaday/StateofIAReport/issues/new) or email us at [research@worldiaday.org](mailto:research@worldiaday.org)
 
 
-### Announcements and Discussions
-Subscribe to this repo's [Discussions](https://github.com/worldiaday/StateofIAReport/discussions)
+## Announcements and Discussions
+👁️ Watch this repo and subscribe to [Discussions](https://github.com/worldiaday/StateofIAReport/discussions)
 - Announcements
 - Show and Tell 
-
-### How can I contribute? 
-We're looking for researchers, editors, proofreaders, translators. Check out Projects > 2021 and assign something to yourself!
-
-### What will you do with the results?
-All the information we collect will be anonymized and made publicly available. We encourage everyone to explore the data, react to it, and help improve the research over time. We'll produce and share an official report once the data has been gathered and analyze.
-
-### How do I report a bug? 
-Submit an bug report or email us at research@worldiaday.org
